@@ -26,7 +26,7 @@ end
 assign_rooms(attendees).each do |badge|
   puts attendee
 end  
-  
+end  
   
   
   
